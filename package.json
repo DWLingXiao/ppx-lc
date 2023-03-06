@@ -1,0 +1,13 @@
+{
+  "name": "ppx-lc",
+  "version": "1.0.0",
+  "description": "A lite lowcode project for learning.",
+  "main": "index.js",
+  "repository": "https://github.com/DWLingXiao/ppx-lc",
+  "author": "DWLingXiao",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
