@@ -10,4 +10,4 @@ export type {
 
 export { TypeBuilderManager } from "./builder/TypeBuilderManager";
 
-export { BuildEngine } from "./engine/BuildEngine";
+export { RuntimeBuildEngine } from "./engine/RuntimeBuildEngine";
