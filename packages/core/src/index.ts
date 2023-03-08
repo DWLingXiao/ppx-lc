@@ -11,3 +11,5 @@ export type {
 export { TypeBuilderManager } from "./builder/TypeBuilderManager";
 
 export { RuntimeBuildEngine } from "./engine/RuntimeBuildEngine";
+
+export * from './canvas/DesignCanvas';
